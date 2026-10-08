@@ -1,0 +1,32 @@
+export const testimonialsData = [
+  {
+    id: 1,
+    quote: "Working with Nexus FDE was a masterclass in modern software engineering. They took our complex fintech idea and delivered a rock-solid, production-ready platform weeks ahead of our investor demo. Unmatched speed and precision.",
+    author: "Elena Rostova",
+    role: "Chief Technology Officer",
+    company: "Vanguard Alpha",
+    rating: 5,
+    tag: "Fintech Platform",
+    avatar: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+  },
+  {
+    id: 2,
+    quote: "Our previous agency struggled with database timeouts and scaling bottlenecks. Nexus came in, profiled our PostgreSQL queries, restructured our microservices, and reduced latency by 68% in 3 weeks. Absolutely indispensable.",
+    author: "Marcus Chen",
+    role: "VP of Engineering",
+    company: "OmniFreight Global",
+    rating: 5,
+    tag: "Scale & Performance",
+    avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+  },
+  {
+    id: 3,
+    quote: "The code quality is exceptional. Everything is strictly typed, modular, and backed by thorough automated tests. Our internal developers were able to inherit the repo seamlessly without any friction. 10/10 recommendation.",
+    author: "Sarah Lindqvist",
+    role: "Founder & CEO",
+    company: "CognitiveLabs AI",
+    rating: 5,
+    tag: "AI & SaaS App",
+    avatar: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+  },
+];
